@@ -1,6 +1,6 @@
 ![Flynn](branding/Flynn1.png)
 
-<h1 align="center"> 
+<h1 align="center"><br> 
 ![](https://travis-ci.org/TIBCOSoftware/flogo.svg)
 ![](https://img.shields.io/badge/dependencies-up%20to%20date-green.svg)
 ![](https://img.shields.io/badge/license-BSD%20style-blue.svg)
